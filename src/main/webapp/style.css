@@ -1,0 +1,74 @@
+body
+{
+    background: url("http://cbs1sao.ru/f/1/temnaya_chernaya_tekstura_na_rabochiy_stol_1920x1200.jpg") fixed;
+    color: ghostwhite;
+}
+
+h1
+{
+    position: absolute;
+    left: 42%;
+    color: darkslategray;
+}
+
+table
+{
+    font-size: 120%;
+    position: absolute;
+    top: 65px;
+    text-indent: 20px;
+    width: 99%;
+}
+
+tr.String
+{
+    height: 1.5cm;
+}
+
+td.FirstColumn
+{
+    width: 10cm;
+}
+
+a
+{
+    font-style: italic;
+}
+
+/*a:hover*/
+/*{*/
+    /*text-transform: uppercase;*/
+/*}*/
+
+/*img.Growing:hover*/
+/*{*/
+    /*width: 150px;*/
+    /*height: auto;*/
+/*}*/
+
+img.GrowingLeft
+{
+    float: left;
+    margin: 7px 7px 7px 0;
+}
+
+img.GrowingRight
+{
+    float: right;
+    margin: 7px 0 7px 7px
+}
+
+/*img:hover*/
+/*{*/
+    /*width: 50%;*/
+/*}*/
+
+/*a:active*/
+/*{*/
+    /*font-size: 200%;*/
+/*}*/
+
+a:visited
+{
+    color: slategray;
+}
